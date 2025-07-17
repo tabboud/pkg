@@ -1,0 +1,8 @@
+{
+    "product-dependencies": [
+        {
+            "product-group": "com.test",
+            "product-name": "test-product"
+        }
+    ]
+}
